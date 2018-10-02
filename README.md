@@ -1,7 +1,7 @@
-# nodebrandom
-print("Hello world.")
+# Node Team Project 1: Texas AirBnB Data
 
-#We can type any code we want to below
-#test
+### Chart 1: Bubble Chart
 
-#update graph
+### Chart 2: ?
+
+### Chart 3: ? 
