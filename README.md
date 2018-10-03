@@ -1,6 +1,7 @@
 # Node Team Project 1: Texas AirBnB Data
 
-#Import statements below this section
+### Import statements below this section
+
 
 
 ### Code - Chart 1: Bubble Chart - John
