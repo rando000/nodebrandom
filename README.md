@@ -1,7 +1,19 @@
 # Node Team Project 1: Texas AirBnB Data
 
-### Chart 1: Bubble Chart
+#Import statements below this section
 
-### Chart 2: ?
 
-### Chart 3: ? 
+### Code - Chart 1: Bubble Chart - John
+
+
+
+
+### Code - Chart 2: Adoption - Josh
+
+
+
+
+### Code - Chart 3: Price segments, and then info within each segment - Ashwin
+
+
+
